@@ -3,4 +3,5 @@
 to run this part:
 
 - clone repo
-- run 'node index.js' in terminal
+- run 'npm install' in terminal
+- next run 'node index.js' 
