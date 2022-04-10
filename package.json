@@ -1,0 +1,22 @@
+{
+  "name": "hostedapi",
+  "version": "1.0.0",
+  "description": "node api hosted on heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.13.2"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "bs58": "^4.0.1",
+    "express": "^4.17.2",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.4.1"
+  }
+}
