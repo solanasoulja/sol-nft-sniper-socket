@@ -1,4 +1,4 @@
-# solnftbots-socket
+# sol-nft-sniper-socket
 
 to run this part:
 
